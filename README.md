@@ -1,6 +1,6 @@
 # Proyecto de desarrollo de software del SPTM
 
-Aplicación web desarrollada en el marco del Seminario Permanente de Tecnología Musical del Posgrado en Música UNAM. El objetivo es explorar las funcionalidades de audio en el navegador.
+Aplicación web desarrollada en el marco del Seminario Permanente de Tecnología Musical del Posgrado en Música UNAM. El objetivo es explorar las funcionalidades de audio en el navegador y su integración con live coding.
 
 ## Ejecución local
 
